@@ -1,39 +1,43 @@
-- 👋 Hi, I’m @Tuxplayers
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm @Tuxplayers
 
-Fingerprint Digital Signature Project
-Ziel des Projekts
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Music](https://img.shields.io/badge/-Music-1DB954?style=flat&logo=spotify&logoColor=white)
 
-Dieses Projekt zielt darauf ab, eine Softwarelösung zu entwickeln, die es ermöglicht, Dokumente mithilfe eines Fingerabdrucks digital zu signieren. Die Lösung soll auf eine Zwei-Faktor-Authentifizierung (2FA) zurückgreifen und beispielsweise die Verwendung eines YubiKeys integrieren, um die Sicherheit der digitalen Unterschrift zu gewährleisten.
+## About Me
 
-Das langfristige Ziel ist es, die digitalen Signaturen rechtlich bindend zu machen, indem sie die Anforderungen an eine qualifizierte elektronische Signatur erfüllen.
-Features (Geplant)
+👀 I'm interested in:
+- Open source & community-driven projects
+- Programming (Python, Bash, Markdown, HTML/CSS)
+- Linux, especially Arch Linux & its derivatives
+- Automation, scripting, system optimization
+- Technology for digital learning (e.g., Anki, learning platforms)
+- Music, songwriting & home recording
 
-    Fingerprint Authentication: Implementierung einer Fingerabdruckerkennung als primäre Authentifizierungsmethode.
-    Zwei-Faktor-Authentifizierung (2FA): Unterstützung der 2FA über physische Sicherheitsschlüssel wie YubiKeys.
-    Dokumenten-Signierung: Möglichkeit, Dokumente wie PDFs oder andere gängige Formate digital zu signieren.
-    Rechtskräftige Signatur: Die Signaturen sollen rechtsgültig sein, indem sie den gesetzlichen Anforderungen an elektronische Signaturen entsprechen.
-    Sicherer Signaturprozess: Schutz der privaten Signaturschlüssel durch Hardware-basierte Sicherheit (z.B. YubiKeys).
+🌱 I'm currently learning:
+- Advanced Python development & testing
+- Building tools/add-ons for Anki
+- Deep dive into package management and system customization on Arch Linux
+- Music production using open-source software (e.g., Ardour, Reaper)
 
-Motivation
+💞️ I'm looking to collaborate on:
+- Educational projects, learning materials & digital study aids
+- Open source projects related to Linux, especially Arch-based systems
+- Projects in music, audio tools & community platforms
 
-In einer zunehmend digitalisierten Welt wird es immer wichtiger, Dokumente sicher und vertrauenswürdig digital signieren zu können. Durch die Integration biometrischer Authentifizierung und starker Zwei-Faktor-Mechanismen wird dieses Projekt einen wichtigen Beitrag zur Sicherheit und Rechtssicherheit von digitalen Signaturen leisten.
-Technologien
+## Connect With Me
+📫 How to reach me:
+- GitHub Issues or Discussions in my repositories
+- [Mein Projekt: ankiFLA](https://github.com/Tuxplayers/ankiFLA)
 
-    Fingerprint Reader Integration
-    Zwei-Faktor-Authentifizierung (2FA) mit YubiKey
-    Kryptografie für sichere digitale Signaturen
-    PDF-Signierung und andere gängige Dateiformate
+😄 Pronouns: he/him
 
-Mitmachen
+⚡ Fun fact:
+- I love explaining complex topics in simple ways—whether it's coding, Linux, or music!
+- My workflow is fully open source and runs on self-configured Arch Linux systems.
 
-Beitragen oder mithelfen bei diesem Open-Source-Projekt? Pull-Requests sind willkommen! Du kannst auch Verbesserungsvorschläge einreichen oder Probleme im Issue-Tracker melden.
-<!---
-Tuxplayers/Tuxplayers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tuxplayers&color=blue)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuxplayers&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

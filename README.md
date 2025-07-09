@@ -13,7 +13,7 @@ _Version: 2025.04.18-03:01 UTC_
 
 | Repository                                         | Description / Focus                                      | Status  |
 | :------------------------------------------------- | :------------------------------------------------------- | :-----: |
-| [ankiFLA](https://github.com/Tuxplayers/ankiFLA)   | Anki deck for driving instructor candidates (Fahrlehreranwärter) – Open educational resource | Public  |
+
 | [pipewire-audio-video-test](https://github.com/Tuxplayers/pipewire-audio-video-test) | Pipewire audio/video testing scripts and configs         | Public  |
 | [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers) | Config files & README for my GitHub profile              | Public  |
 

@@ -65,8 +65,7 @@ I combine classic songwriting with modern audio engineering. I regularly work on
 
 📫 **How to reach me:**
 - GitHub Issues or Discussions in my repositories
-- Main project: [ankiFLA](https://github.com/Tuxplayers/ankiFLA)
-
+- Main project: Website
 😄 **Pronouns:** he/him
 
 ---

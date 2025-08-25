@@ -9,82 +9,80 @@
 ---
 
 **Public Projects Overview**  
-_Version: 2025.04.18-03:01 UTC_
+_Version: 2025.08.25-16:00 UTC_
 
 | Repository                                         | Description / Focus                                      | Status  |
 | :------------------------------------------------- | :------------------------------------------------------- | :-----: |
-
-| [pipewire-audio-video-test](https://github.com/Tuxplayers/pipewire-audio-video-test) | Pipewire audio/video testing scripts and configs         | Public  |
-| [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers) | Config files & README for my GitHub profile              | Public  |
+| [pipewire-audio-video-test](https://github.com/Tuxplayers/pipewire-audio-video-test) | PipeWire audio/video testing scripts and configs         | ✅ Public  |
+| [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers) | Config files & profile README                            | ✅ Public  |
 
 ---
 
-## About Me
+## 👤 About Me
 
-👀 **I'm interested in:**
-- Open source & community-driven projects
-- Programming (Python, Bash, Markdown, HTML/CSS)
-- Linux, especially Arch Linux & its derivatives
-- Automation, scripting, system optimization
-- Technology for digital learning (e.g., Anki, learning platforms)
-- Music, songwriting & home recording
+👀 **I’m interested in:**
+- Open source & community-driven projects  
+- Programming: Python, Bash, Markdown, HTML/CSS  
+- Linux systems – especially Arch Linux & its derivatives  
+- Automation, scripting, and system optimization  
+- Digital learning technologies (e.g., Anki, self-hosted tools)  
+- Music, songwriting & home recording  
 
-🌱 **I'm currently learning:**
-- Advanced Python development & testing
-- Building tools/add-ons for Anki
-- Deep dive into package management and system customization on Arch Linux
-- Music production using open-source software (e.g., Bitwig Studio, Reaper)
-- 🚗 **Currently training as a driving instructor candidate (_Fahrlehreranwärter_) since March 18, 2025**
+🌱 **Currently learning:**
+- Advanced Python development & testing  
+- Custom tooling and productivity scripts  
+- Deep-dive into Arch Linux package management  
+- Music production with Bitwig Studio & Reaper  
 
-💞️ **I'm looking to collaborate on:**
-- Educational projects, learning materials & digital study aids
-- Open source projects related to Linux, especially Arch-based systems
-- Projects in music, audio tools & community platforms
+💡 **My setup:** Fully self-configured Arch Linux system using only open source tools.
 
 ---
 
 ## 🎵 Music, Songwriting & Home Recording
 
-I write and produce music and songs in my home studio – from first idea to finished arrangement and mix.
+I write, record, and mix songs in my home studio.
 
-**DAWs & Tools:**  
-- **Bitwig Studio:** Modern, modular DAW for creative production, sound design, jamming, and live performance. Especially strong for flexible workflows, experimental sounds, and stable on Linux.
-- **Reaper:** Highly flexible, lightweight DAW with excellent routing, automation, customization possibilities, and a huge user community. Perfect for recording, editing, mixing, and mastering – runs reliably on Linux, Windows, and MacOS.
+🎛️ **Tools I use:**
+- 🎚 **Bitwig Studio** – Modular DAW for creative production  
+- 🎚 **Reaper** – Lightweight and highly customizable DAW  
+- 🛠 Plugins, sound libraries & audio tools (mostly open-source)
 
-**Instruments & musical skills:**  
+🎸 **Instruments:**
 - 🎹 Piano / Keyboard  
 - 🥁 Drums  
 - 🎤 Vocals  
-- 🎸 Guitar
+- 🎸 Guitar  
 
-I combine classic songwriting with modern audio engineering. I regularly work on composition, sound design, and mixing—always exploring new plugins, sound libraries, and production methods.
+💬 I love blending classic songwriting with modern digital production workflows.
 
 ---
 
-## Connect With Me
+## 🤝 Collaborations
 
-📫 **How to reach me:**
-- GitHub Issues or Discussions in my repositories
-- Main project: Website
+💞️ I’m open to collaborating on:
+- Educational or digital learning projects  
+- Linux-based tools & automation  
+- Music production, DAW scripting, or sound design  
+
+---
+
+## 📫 Contact & Socials
+
+- 📧 GitHub Issues / Discussions in my repositories  
+- 📺 [YouTube](https://www.youtube.com/@TUXPLAYER) — Music & tech content  
+- 📘 [Facebook](https://www.facebook.com/tuxplayer.222/) — Let's connect  
+- ❤️ [Patreon](https://www.patreon.com/c/user?u=19664883) — Support my creative work  
+
 😄 **Pronouns:** he/him
 
 ---
 
-## ⚡ Fun fact
+## ⚡ Fun Facts
 
-- I love explaining complex topics in simple ways—whether it's coding, Linux, or music!
-- My workflow is fully open source and runs on self-configured Arch Linux systems.
+- I enjoy making complex tech topics accessible & beginner-friendly  
+- I maintain a fully open workflow using Linux & FOSS  
+- I prefer building tools I actually use in real life  
 
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuxplayers&show_icons=true&theme=default)
-
-### Social Media
-
-- [YouTube](https://www.youtube.com/@TUXPLAYER): Music and songwriting content.
-- [Facebook](https://www.facebook.com/tuxplayer.222/): Connect with me on Facebook!
-
-### Support Me
-
-If you enjoy my work and would like to support it, consider becoming a patron:
-- [Patreon](https://www.patreon.com/c/user?u=19664883)

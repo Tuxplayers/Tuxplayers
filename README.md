@@ -13,7 +13,7 @@ _Version: Fr 12. Sep 19:49:34 CEST 2025_
 
 | Repository                                         | Description / Focus                                      | Status  |
 | :------------------------------------------------- | :------------------------------------------------------- | :-----: |
-| [pipewire-audio-video-test](https://github.com/Tuxplayers/musikstudio) | Musikstudio Management          | 🖍️ TEST  |
+| [ Musikstudio](https://github.com/Tuxplayers/musikstudio) | Musikstudio Management          | 🖍️ TEST  |
 | [pipewire-audio-video-test](https://github.com/Tuxplayers/pipewire-audio-video-test) | PipeWire audio/video testing scripts and configs  ✅ Public  |
 | [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers) | Config files & profile README                            | ✅ Public  |
 

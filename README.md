@@ -9,11 +9,11 @@
 ---
 
 **Public Projects Overview**  
-_Version: Fr 12. Sep 19:49:34 CEST 2025_
+_Version: Sa 04. Okt 20:15:00 CEST 2025_
 
 | Repository                                         | Description / Focus                                      | Status  |
 | :------------------------------------------------- | :------------------------------------------------------- | :-----: |
-| [ Musikstudio](https://github.com/Tuxplayers/musikstudio) | Musikstudio Management          | 🖍️ TEST  |
+| Musikstudio | Musikstudio Management | ✅ Ready |
 | [pipewire-audio-video-test](https://github.com/Tuxplayers/pipewire-audio-video-test) | PipeWire audio/video testing scripts and configs  ✅ Public  |
 | [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers) | Config files & profile README                            | ✅ Public  |
 

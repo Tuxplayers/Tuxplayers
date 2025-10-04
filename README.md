@@ -13,7 +13,7 @@ Linux Arch Linux | Python | Music Production
 ---
 
 ## 🏗️ Public Projects Overview  
-_Version: Sa 04. Okt 20:15:00 CEST 2025_
+_Version: $(date "+%a %d. %b %H:%M:%S %Z %Y")_
 
 | Repository | Description / Focus | Status |
 | :-------- | :----------------- | :----: |
@@ -22,7 +22,6 @@ _Version: Sa 04. Okt 20:15:00 CEST 2025_
 | [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers) | Config files & profile README | ✅ Public |
 | [studio-audio-manager](https://github.com/Tuxplayers/studio-audio-manager) | Audio-Management & Recording Tools | ✅ Ready |
 
-
 ---
 
 ## 👤 About Me
@@ -30,7 +29,7 @@ _Version: Sa 04. Okt 20:15:00 CEST 2025_
 👀 **I’m interested in:**
 - Open source & community-driven projects  
 - Programming: Python, Bash, Markdown, HTML/CSS  
-- Linux systems – especially Arch Linux & its derivatives  
+- Linux systems – especially Arch Linux & derivatives  
 - Automation, scripting, and system optimization  
 - Digital learning technologies (e.g., Anki, self-hosted tools)  
 - Music, songwriting & home recording  
@@ -75,7 +74,7 @@ I write, record, and mix songs in my home studio.
 
 ## 📫 Contact & Socials
 
-- 📧 GitHub Issues / Discussions in my repositories  
+- 📧 Email: contakt@tuxhs.de (Benutzer: Tuxplayers)  
 - 📺 [YouTube](https://www.youtube.com/@TUXPLAYER) — Music & tech content  
 - 📘 [Facebook](https://www.facebook.com/tuxplayer.222/) — Let's connect  
 - ❤️ [Patreon](https://www.patreon.com/c/user?u=19664883) — Support my creative work  

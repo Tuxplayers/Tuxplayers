@@ -8,14 +8,20 @@
 
 ---
 
-**Public Projects Overview**  
+Linux Arch Linux | Python | Music Production
+
+---
+
+## 🏗️ Public Projects Overview  
 _Version: Sa 04. Okt 20:15:00 CEST 2025_
 
-| Repository                                         | Description / Focus                                      | Status  |
-| :------------------------------------------------- | :------------------------------------------------------- | :-----: |
-| Musikstudio | Musikstudio Management | ✅ Ready |
-| [pipewire-audio-video-test](https://github.com/Tuxplayers/pipewire-audio-video-test) | PipeWire audio/video testing scripts and configs  ✅ Public  |
-| [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers) | Config files & profile README                            | ✅ Public  |
+| Repository | Description / Focus | Status |
+| :-------- | :----------------- | :----: |
+| [Musikstudio](https://github.com/Tuxplayers/musikstudio) | Musikstudio Management | ✅ Ready |
+| [pipewire-audio-video-test](https://github.com/Tuxplayers/pipewire-audio-video-test) | PipeWire audio/video testing scripts and configs | ✅ Public |
+| [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers) | Config files & profile README | ✅ Public |
+| [studio-audio-manager](https://github.com/Tuxplayers/studio-audio-manager) | Audio-Management & Recording Tools | ✅ Ready |
+
 
 ---
 

@@ -13,7 +13,7 @@ Linux Arch Linux | Python | Music Production
 ---
 
 ## 🏗️ Public Projects Overview  
-_Version: $(date "+%a %d. %b %H:%M:%S %Z %Y")_
+_Version: Sa 4. Okt 16:54:36 CEST 2025_
 
 | Repository | Description / Focus | Status |
 | :-------- | :----------------- | :----: |

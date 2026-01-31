@@ -1,13 +1,15 @@
 name: Latest Blog Posts Workflow
 on:
   schedule:
-    - cron: '0 0 * * *' # Läuft jede Nacht um 0 Uhr
-  workflow_dispatch: # Erlaubt manuelles Testen
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
     name: Update README with blog posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Das hier ist wichtig für die Schreibrechte!
     steps:
       - uses: actions/checkout@v3
       - name: Pull Music Posts

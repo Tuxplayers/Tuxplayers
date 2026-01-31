@@ -1,0 +1,22 @@
+name: Latest Blog Posts Workflow
+on:
+  schedule:
+    - cron: '0 0 * * *' # Läuft jede Nacht um 0 Uhr
+  workflow_dispatch: # Erlaubt manuelles Testen
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Pull Music Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POST-LIST-MUSIC"
+          feed_list: "https://tuxhs.de/category/musik/feed/"
+      - name: Pull Code Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POST-LIST-CODE"
+          feed_list: "https://tuxhs.de/category/programmierung/feed/"

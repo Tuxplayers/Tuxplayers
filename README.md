@@ -114,5 +114,7 @@ I write, record, and mix songs in my home studio.
 - I prefer building tools I actually use in real life  
 
 ---
-
+### 🎵 Neueste Musik- & Studio-Beiträge
+### 🐍 Coding & Linux Tipps
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuxplayers&show_icons=true&theme=default)

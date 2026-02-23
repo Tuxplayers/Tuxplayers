@@ -1,4 +1,11 @@
-name: Latest Blog Posts Workflow
+# ============================================================================
+# Name: Heiko Schäfer (TUXPLAYER)
+# Datum: 23. Februar 2026, 05:54
+# Beschreibung: GitHub Action zur automatischen Aktualisierung des README
+# Zweck: Präsentiert Besuchern die neuesten Inhalte von tuxhs.de
+# ============================================================================
+
+name: Aktuelle Blogbeiträge - Arbeitslauf
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -6,19 +13,21 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with blog posts
+    name: README mit Blogbeiträgen aktualisieren
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Das hier ist wichtig für die Schreibrechte!
+      contents: write # Wichtig für Schreibrechte im Repo!
     steps:
       - uses: actions/checkout@v3
-      - name: Pull Music Posts
+      
+      - name: Musikpfosten ziehen
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST-MUSIC"
-          feed_list: "https://tuxhs.de/category/musik/feed/"
-      - name: Pull Code Posts
+          feed_list: "https://tuxhs.de/feed/"
+
+      - name: Pull-Code-Pfosten
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST-CODE"
-          feed_list: "https://tuxhs.de/category/programmierung/feed/"
+          feed_list: "https://tuxhs.de/feed/"

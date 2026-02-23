@@ -1,6 +1,6 @@
 # ============================================================================
 # Name: Heiko Schäfer (TUXPLAYER)
-# Datum: 23. Februar 2026, 05:54
+# Datum: 23. Februar 2026, 06:05
 # Beschreibung: GitHub Action zur automatischen Aktualisierung des README
 # Zweck: Präsentiert Besuchern die neuesten Inhalte von tuxhs.de
 # ============================================================================
@@ -16,10 +16,10 @@ jobs:
     name: README mit Blogbeiträgen aktualisieren
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Wichtig für Schreibrechte im Repo!
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Musikpfosten ziehen
         uses: gautamkrishnar/blog-post-workflow@master
         with:

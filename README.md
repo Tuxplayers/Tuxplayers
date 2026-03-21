@@ -100,7 +100,7 @@ I write, record, and mix songs in my home studio.
 
 ## 📫 Contact & Socials
 
-- 📧 Email: [contakt@tuxhs.de](mailto:contakt@tuxhs.de) (Username: Tuxplayers)  
+- 📧 Email: [contact@tuxhs.de](mailto:contact@tuxhs.de) (Username: Tuxplayers)  
 - 📺 [YouTube](https://www.youtube.com/@TUXPLAYER) — Music & tech content  
 - 📘 [Facebook](https://www.facebook.com/tuxplayer.222/) — Let's connect  
 - ❤️ [Patreon](https://www.patreon.com/c/user?u=19664883) — Support my creative work  

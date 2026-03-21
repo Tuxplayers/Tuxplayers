@@ -13,16 +13,15 @@ Linux Arch Linux | Python | Music Production
 ---
 
 ## 🏗️ Public Projects Overview  
-_Version: Wed Oct 8 03:00:12 CEST 2025_
+_Version: Sat Mar 21 2026_
 
-| Repository                                             | Description / Focus                         | Status  |
-|--------------------------------------------------------|--------------------------------------------|---------|
-| [Musikstudio](https://github.com/Tuxplayers/musikstudio)                  | Music Studio Management                     | ✅ Ready  |
+| Repository | Description / Focus | Status |
+|-----------|---------------------|--------|
+| [Musikstudio](https://github.com/Tuxplayers/musikstudio) | Music Studio Management | ✅ Ready |
 | [pipewire-audio-video-test](https://github.com/Tuxplayers/pipewire-audio-video-test) | PipeWire audio/video testing scripts/configs | ✅ Public |
-| [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers)                    | Config files & profile README               | ✅ Public |
+| [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers) | Config files & profile README | ✅ Public |
 | [security-lab](https://github.com/Tuxplayers/security-lab) | 🔐 Ethical Hacking Lernumgebung (DVWA, Gobuster, ffuf) | 🚧 Active |
-| [security-lab](https://github.com/Tuxplayers/security-lab) | 🔐 Ethical Hacking Lernumgebung (DVWA, Gobuster, ffuf) | 🚧 Active |
-| [studio-audio-manager](https://github.com/Tuxplayers/studio-audio-manager) | Audio Management & Recording Tools           | ✅ Ready  |
+| [studio-audio-manager](https://github.com/Tuxplayers/studio-audio-manager) | Audio Management & Recording Tools | ✅ Ready |
 
 ---
 
@@ -52,7 +51,7 @@ Electronic Music Producer, Stuttgart, Germany
 
 ## 👤 About Me
 
-👀 **I’m interested in:**  
+👀 **I'm interested in:**  
 - Open source & community-driven projects  
 - Programming: Python, Bash, Markdown, HTML/CSS  
 - Linux systems – especially Arch Linux & derivatives  
@@ -64,8 +63,7 @@ Electronic Music Producer, Stuttgart, Germany
 - Advanced Python development & testing  
 - Custom tooling and productivity scripts  
 - Deep dive into Arch Linux package management  
-- Music production with Bitwig Studio & Reaper
-- 🔐 Web Penetration Testing & Ethical Hacking
+- Music production with Bitwig Studio & Reaper  
 - 🔐 Web Penetration Testing & Ethical Hacking  
 
 💡 **My setup:** Fully self-configured Arch Linux system using only open source tools.
@@ -93,7 +91,7 @@ I write, record, and mix songs in my home studio.
 
 ## 🤝 Collaborations
 
-💞️ I’m open to collaborating on:  
+💞️ I'm open to collaborating on:  
 - Educational or digital learning projects  
 - Linux-based tools & automation  
 - Music production, DAW scripting, or sound design  

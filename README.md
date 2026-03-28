@@ -22,8 +22,8 @@ _Version: Sat Mar 21 2026_
 | [Tuxplayers](https://github.com/Tuxplayers/Tuxplayers) | Config files & profile README | ✅ Public |
 | [security-lab](https://github.com/Tuxplayers/security-lab) | 🔐 Ethical Hacking Lernumgebung (DVWA, Gobuster, ffuf) | 🚧 Active |
 | [studio-audio-manager](https://github.com/Tuxplayers/studio-audio-manager) | Audio Management & Recording Tools | ✅ Ready |
-| [TuxBackup](https://github.com/Tuxplayers/TuxBackup) | Multiplattform-Backup-System mit GUI (Linux, Windows, macOS) | ✅ Ready |            
-
+| [TuxBackup](https://github.com/Tuxplayers/TuxBackup) | Multiplattform-Backup-System mit GUI (Linux, Windows, macOS) | ✅ Ready | 
+| [TuxBackup](https://github.com/Tuxplayers/TuxBackup) | Multiplattform-Backup-System mit GUI (Linux, Windows, macOS) | ✅ Ready | 
 ---
 
 ### About This Repository

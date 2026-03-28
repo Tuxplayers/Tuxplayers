@@ -23,7 +23,8 @@ _Version: Sat Mar 21 2026_
 | [security-lab](https://github.com/Tuxplayers/security-lab) | 🔐 Ethical Hacking Lernumgebung (DVWA, Gobuster, ffuf) | 🚧 Active |
 | [studio-audio-manager](https://github.com/Tuxplayers/studio-audio-manager) | Audio Management & Recording Tools | ✅ Ready |
 | [TuxBackup](https://github.com/Tuxplayers/TuxBackup) | Multiplattform-Backup-System mit GUI (Linux, Windows, macOS) | ✅ Ready | 
-| [TuxBackup](https://github.com/Tuxplayers/TuxBackup) | Multiplattform-Backup-System mit GUI (Linux, Windows, macOS) | ✅ Ready | 
+| [TUX-Guitar-Tuner](https://github.com/Tuxplayers/TUX-Guitar-Tuner) | Linux-nativer Gitarrenstimmer — Auto-Saiten-Erkennung, HPS, PipeWire | ✅ Ready |
+
 ---
 
 ### About This Repository

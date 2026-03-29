@@ -6,6 +6,7 @@
 # ============================================================================
 
 name: Aktuelle Blogbeiträge - Arbeitslauf
+
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -24,10 +25,14 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST-MUSIC"
-          feed_list: "https://tuxhs.de/feed/"
+          feed_list: "https://tuxhs.de/feed/?cat=musik"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          max_post_count: 5
 
       - name: Pull-Code-Pfosten
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST-CODE"
           feed_list: "https://tuxhs.de/feed/"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          max_post_count: 5

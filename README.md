@@ -129,4 +129,4 @@ I write, record, and mix songs in my home studio.
 [![PayPal](https://img.shields.io/badge/PayPal-Spende-blue)](https://paypal.me/tuxplayer)
 [![Spotify](https://img.shields.io/badge/Spotify-TUXPLAYER-1DB954?logo=spotify)](https://open.spotify.com/intl-de/artist/3fLE7luGckdhQeVlMVJKbs)
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuxplayers&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuxplayers&show_icons=true&theme=dark&cache_seconds=86400)

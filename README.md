@@ -116,24 +116,17 @@ I write, record, and mix songs in my home studio.
 - I maintain a fully open workflow using Linux & FOSS  
 - I prefer building tools I actually use in real life  
 ---
+### 📝 Aktuelle Blog-Beiträge
 <!-- BLOG-POST-LIST-MUSIC:START -->
-- [CachyOS in VirtualBox installieren – Schritt für Schritt](https://tuxhs.de/cachyos/)
-- [COMTUX v2.0.30 – Offline-Sprachsteuerung für Linux-Systeme](https://tuxhs.de/comtux-v2-0-30-offline-sprachsteuerung-fuer-linux-systeme/)
-- [TUXPLAYER STUDIO-MASTER v1.5.1](https://tuxhs.de/tuxplayer-studio-master-v1-5-1/)
-- [Chronologie: Der GEMA-Kampf des TUXPLAYER](https://tuxhs.de/chronologie-der-gema-kampf-des-tuxplayer/)
-- [TUXPLAYER Branding Automatisierung 2026](https://tuxhs.de/tuxplayer-branding-automatisierung-2026/)
 <!-- BLOG-POST-LIST-MUSIC:END -->
+
+### 🎵 Aktuelle Musik-Beiträge  
 <!-- BLOG-POST-LIST-CODE:START -->
-- [CachyOS in VirtualBox installieren – Schritt für Schritt](https://tuxhs.de/cachyos/)
-- [COMTUX v2.0.30 – Offline-Sprachsteuerung für Linux-Systeme](https://tuxhs.de/comtux-v2-0-30-offline-sprachsteuerung-fuer-linux-systeme/)
-- [TUXPLAYER STUDIO-MASTER v1.5.1](https://tuxhs.de/tuxplayer-studio-master-v1-5-1/)
-- [Chronologie: Der GEMA-Kampf des TUXPLAYER](https://tuxhs.de/chronologie-der-gema-kampf-des-tuxplayer/)
-- [TUXPLAYER Branding Automatisierung 2026](https://tuxhs.de/tuxplayer-branding-automatisierung-2026/)
 <!-- BLOG-POST-LIST-CODE:END -->
 ---
 ### ☕ Support
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow)](https://buymeacoffee.com/schaefer.heiko)
 [![PayPal](https://img.shields.io/badge/PayPal-Spende-blue)](https://paypal.me/tuxplayer)
 [![Spotify](https://img.shields.io/badge/Spotify-TUXPLAYER-1DB954?logo=spotify)](https://open.spotify.com/intl-de/artist/3fLE7luGckdhQeVlMVJKbs)
-
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuxplayers&show_icons=true&theme=dark)

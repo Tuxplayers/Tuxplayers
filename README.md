@@ -13,7 +13,7 @@ Linux Arch Linux | Python | Music Production
 ---
 
 ## 🏗️ Public Projects Overview  
-_Version: Sat Mar 21 2026_
+_Version: Sun Mar 29 2026_
 
 | Repository | Description / Focus | Status |
 |-----------|---------------------|--------|
@@ -139,4 +139,4 @@ I write, record, and mix songs in my home studio.
 [![PayPal](https://img.shields.io/badge/PayPal-Spende-blue)](https://paypal.me/tuxplayer)
 [![Spotify](https://img.shields.io/badge/Spotify-TUXPLAYER-1DB954?logo=spotify)](https://open.spotify.com/intl-de/artist/3fLE7luGckdhQeVlMVJKbs)
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuxplayers&show_icons=true&theme=dark&cache_seconds=86400)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tuxplayers&theme=dark)](https://git.io/streak-stats)

@@ -112,13 +112,18 @@ I write, record, and mix songs in my home studio.
 ---
 
 ## ⚡ Fun Facts
-
 - I enjoy making complex tech topics accessible & beginner-friendly  
 - I maintain a fully open workflow using Linux & FOSS  
 - I prefer building tools I actually use in real life  
+---
+<!-- BLOG-POST-LIST-MUSIC:START -->
+<!-- BLOG-POST-LIST-MUSIC:END -->
+<!-- BLOG-POST-LIST-CODE:START -->
+<!-- BLOG-POST-LIST-CODE:END -->
+---
+### ☕ Support
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow)](https://buymeacoffee.com/schaefer.heiko)
+[![PayPal](https://img.shields.io/badge/PayPal-Spende-blue)](https://paypal.me/tuxplayer)
+[![Spotify](https://img.shields.io/badge/Spotify-TUXPLAYER-1DB954?logo=spotify)](https://open.spotify.com/intl-de/artist/3fLE7luGckdhQeVlMVJKbs)
 
----
-### 🎵 Neueste Musik- & Studio-Beiträge
-### 🐍 Coding & Linux Tipps
----
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuxplayers&show_icons=true&theme=default)

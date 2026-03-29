@@ -124,6 +124,11 @@ I write, record, and mix songs in my home studio.
 - [TUXPLAYER Branding Automatisierung 2026](https://tuxhs.de/tuxplayer-branding-automatisierung-2026/)
 <!-- BLOG-POST-LIST-MUSIC:END -->
 <!-- BLOG-POST-LIST-CODE:START -->
+- [CachyOS in VirtualBox installieren – Schritt für Schritt](https://tuxhs.de/cachyos/)
+- [COMTUX v2.0.30 – Offline-Sprachsteuerung für Linux-Systeme](https://tuxhs.de/comtux-v2-0-30-offline-sprachsteuerung-fuer-linux-systeme/)
+- [TUXPLAYER STUDIO-MASTER v1.5.1](https://tuxhs.de/tuxplayer-studio-master-v1-5-1/)
+- [Chronologie: Der GEMA-Kampf des TUXPLAYER](https://tuxhs.de/chronologie-der-gema-kampf-des-tuxplayer/)
+- [TUXPLAYER Branding Automatisierung 2026](https://tuxhs.de/tuxplayer-branding-automatisierung-2026/)
 <!-- BLOG-POST-LIST-CODE:END -->
 ---
 ### ☕ Support

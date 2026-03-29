@@ -4,14 +4,11 @@
 # Beschreibung: GitHub Action zur automatischen Aktualisierung des README
 # Zweck: Präsentiert Besuchern die neuesten Inhalte von tuxhs.de
 # ============================================================================
-
 name: Aktuelle Blogbeiträge - Arbeitslauf
-
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-
 jobs:
   update-readme-with-blog:
     name: README mit Blogbeiträgen aktualisieren
@@ -19,8 +16,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-
+      - uses: actions/checkout@v4
       - name: Musikpfosten ziehen
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -28,7 +24,6 @@ jobs:
           feed_list: "https://tuxhs.de/feed/?cat=musik"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           max_post_count: 5
-
       - name: Pull-Code-Pfosten
         uses: gautamkrishnar/blog-post-workflow@master
         with:

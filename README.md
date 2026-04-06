@@ -13,7 +13,7 @@ Linux Arch Linux | Python | Music Production
 ---
 
 ## 🏗️ Public Projects Overview  
-_Version: Sun Mar 29 2026_
+_Version: Sun Apr 06 2026_
 
 | Repository | Description / Focus | Status |
 |-----------|---------------------|--------|
@@ -46,7 +46,7 @@ For more details, visit the [official website](https://tuxhs.de/) and read the f
 ### Contact
 
 Heiko Schäfer (TUXPLAYER)  
-[Website](https://tuxhs.de/) | [YouTube](https://www.youtube.com/c/tuxplayer)  
+[Website](https://tuxhs.de/) | [YouTube](https://www.youtube.com/@TUXPLAYER)  
 Electronic Music Producer, Stuttgart, Germany
 
 ---

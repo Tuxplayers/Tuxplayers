@@ -118,11 +118,11 @@ I write, record, and mix songs in my home studio.
 ---
 ### 📝 Aktuelle Blog-Beiträge
 <!-- BLOG-POST-LIST-MUSIC:START -->
+- [🤘 666 – The Number of the Suspend: Wie ich meinen Linux-PC auf Metal-Zeit getaktet habe](https://tuxhs.de/%f0%9f%a4%98-666-the-number-of-the-suspend-wie-ich-meinen-linux-pc-auf-metal-zeit-getaktet-habe/)
 - [CachyOS in VirtualBox installieren – Schritt für Schritt](https://tuxhs.de/cachyos/)
 - [COMTUX v2.0.30 – Offline-Sprachsteuerung für Linux-Systeme](https://tuxhs.de/comtux-v2-0-30-offline-sprachsteuerung-fuer-linux-systeme/)
 - [TUXPLAYER STUDIO-MASTER v1.5.1](https://tuxhs.de/tuxplayer-studio-master-v1-5-1/)
 - [Chronologie: Der GEMA-Kampf des TUXPLAYER](https://tuxhs.de/chronologie-der-gema-kampf-des-tuxplayer/)
-- [TUXPLAYER Branding Automatisierung 2026](https://tuxhs.de/tuxplayer-branding-automatisierung-2026/)
 <!-- BLOG-POST-LIST-MUSIC:END -->
 
 ### 🎵 Aktuelle Musik-Beiträge  

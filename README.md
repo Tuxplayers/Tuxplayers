@@ -118,11 +118,11 @@ I write, record, and mix songs in my home studio.
 ---
 ### 📝 Aktuelle Blog-Beiträge
 <!-- BLOG-POST-LIST-MUSIC:START -->
+- [Ultimate Vocal Remover &lpar;UVR5&rpar; unter Linux](https://tuxhs.de/ultimate-vocal-remover-uvr5-unter-linux/)
 - [Werbefrei YouTube und Musik hören auf dem Smartphone: So geht’s richtig &lpar;Android &amp; iOS&rpar;](https://tuxhs.de/werbefrei-youtube-und-musik-hoeren-auf-dem-smartphone-so-gehts-richtig-android-ios/)
 - [Crying For Angels](https://tuxhs.de/crying-for-angels/)
 - [🤘 666 – The Number of the Suspend: Wie ich meinen Linux-PC auf Metal-Zeit getaktet habe](https://tuxhs.de/%f0%9f%a4%98-666-the-number-of-the-suspend-wie-ich-meinen-linux-pc-auf-metal-zeit-getaktet-habe/)
 - [CachyOS in VirtualBox installieren – Schritt für Schritt](https://tuxhs.de/cachyos/)
-- [COMTUX v2.0.30 – Offline-Sprachsteuerung für Linux-Systeme](https://tuxhs.de/comtux-v2-0-30-offline-sprachsteuerung-fuer-linux-systeme/)
 <!-- BLOG-POST-LIST-MUSIC:END -->
 
 ### 🎵 Aktuelle Musik-Beiträge  

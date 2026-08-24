@@ -127,11 +127,11 @@ I write, record, and mix songs in my home studio.
 
 ### 🎵 Aktuelle Musik-Beiträge  
 <!-- BLOG-POST-LIST-CODE:START -->
+- [Mixxx als Radio-Studio: Vom DJ-Tool zur Sendekonsole](https://tuxhs.de/mixxx-als-radio-studio-vom-dj-tool-zur-sendekonsole/)
 - [KWin Window Rules: Carla &amp; Plugin-Fixierung unter Wayland](https://tuxhs.de/kwin-window-rules-carla-plugin-fixierung-unter-wayland/)
 - [Remove.bg Desktop-App unter Arch Linux](https://tuxhs.de/remove-bg-desktop-app-unter-arch-linux/)
 - [„Arch Linux Terminal pimpen: Interaktiver Setup-Prompt für Zeit &amp; Privatsphäre](https://tuxhs.de/arch-linux-terminal-pimpen-interaktiver-setup-prompt-fuer-zeit-privatsphaere/)
 - [Ultimate Vocal Remover &lpar;UVR5&rpar; unter Linux](https://tuxhs.de/ultimate-vocal-remover-uvr5-unter-linux/)
-- [Werbefrei YouTube und Musik hören auf dem Smartphone: So geht’s richtig &lpar;Android &amp; iOS&rpar;](https://tuxhs.de/werbefrei-youtube-und-musik-hoeren-auf-dem-smartphone-so-gehts-richtig-android-ios/)
 <!-- BLOG-POST-LIST-CODE:END -->
 ---
 ### ☕ Support

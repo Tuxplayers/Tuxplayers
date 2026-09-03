@@ -118,11 +118,11 @@ I write, record, and mix songs in my home studio.
 ---
 ### 📝 Aktuelle Blog-Beiträge
 <!-- BLOG-POST-LIST-MUSIC:START -->
+- [NAM in Carla-RackFX einbinden](https://tuxhs.de/nam-in-carla-rackfx-einbinden/)
 - [Mixxx als Radio-Studio: Vom DJ-Tool zur Sendekonsole](https://tuxhs.de/mixxx-als-radio-studio-vom-dj-tool-zur-sendekonsole/)
 - [KWin Window Rules: Carla &amp; Plugin-Fixierung unter Wayland](https://tuxhs.de/kwin-window-rules-carla-plugin-fixierung-unter-wayland/)
 - [Remove.bg Desktop-App unter Arch Linux](https://tuxhs.de/remove-bg-desktop-app-unter-arch-linux/)
 - [„Arch Linux Terminal pimpen: Interaktiver Setup-Prompt für Zeit &amp; Privatsphäre](https://tuxhs.de/arch-linux-terminal-pimpen-interaktiver-setup-prompt-fuer-zeit-privatsphaere/)
-- [Ultimate Vocal Remover &lpar;UVR5&rpar; unter Linux](https://tuxhs.de/ultimate-vocal-remover-uvr5-unter-linux/)
 <!-- BLOG-POST-LIST-MUSIC:END -->
 
 ### 🎵 Aktuelle Musik-Beiträge  
